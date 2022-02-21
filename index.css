@@ -1,0 +1,43 @@
+#main {
+  background-color: rgb(241, 238, 238);
+  border-radius: 10px;
+  margin: 20px 0px 20px 0px;
+}
+#img-div {
+  background-color: white;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}
+#image {
+  align-self: center;
+  width: auto;
+  max-width: 90%;
+}
+#img-caption {
+  align-self: center;
+  padding: 20px;
+}
+#title {
+  text-align: center;
+}
+h1 {
+  padding-top: 40px;
+  font-size: 40px;
+  font-weight: 800;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+#tribute-info {
+  display: flex;
+  flex-direction: column;
+}
+#tbody {
+  align-self: center;
+  width: 500px;
+  max-width: 90%;
+}
